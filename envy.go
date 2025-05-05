@@ -1,5 +1,5 @@
 /*
-Copyright © 2025 EricTian <erictianc@outlook.com>
+Copyright © 2025 Eric Tian <erictianc@outlook.com>
 */
 package main
 
